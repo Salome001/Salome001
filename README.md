@@ -1,5 +1,5 @@
 <h2>👋 ¡Buenas tardes, soy Salomé Olivo!</h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> ¡Bienvenido a mi perfil de GitHub!
+¡Bienvenido a mi perfil de GitHub!
 
 Me apasiona la programación, el código abierto y compartir conocimientos.
 
@@ -8,7 +8,7 @@ Me apasiona la programación, el código abierto y compartir conocimientos.
 
 Soy estudiante de **Ingeniería en Tecnologías de la Información**.  
 Me gusta aprender cosas como **C#**, redes y explorar nuevos temas de tecnología.  
-👉 [Mira este artículo que me gustó](https://medium.com/data-science/exploring-data-analysis-via-natural-language-approach-1-224965d1fb16)
+👉 [Mira este artículo que me gustó](https://docs.python.org/es/3.8/extending/extending.html)
 
   </div>
   <div>
@@ -21,4 +21,3 @@ Me gusta aprender cosas como **C#**, redes y explorar nuevos temas de tecnologí
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-
