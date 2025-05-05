@@ -19,7 +19,7 @@ Me gusta aprender cosas como **C#**, redes y explorar nuevos temas de tecnologí
 
 ### 🧠 Lenguajes y tecnologías que uso
 
-<span style="display:inline-block;background-color:#68217A;color:white;border-radius:6px;padding:4px 10px;margin:4px">C#</span>
-<span style="display:inline-block;background-color:#f89820;color:white;border-radius:6px;padding:4px 10px;margin:4px">Java</span>
-<span style="display:inline-block;background-color:#306998;color:white;border-radius:6px;padding:4px 10px;margin:4px">Python</span>
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 
