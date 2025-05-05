@@ -6,7 +6,6 @@ Me apasiona la programación, el código abierto y compartir conocimientos.
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
 
-### ¡Hola!  
 Soy estudiante de **Ingeniería en Tecnologías de la Información**.  
 Me gusta aprender cosas como **C#**, redes y explorar nuevos temas de tecnología.  
 👉 [Mira este artículo que me gustó](https://medium.com/data-science/exploring-data-analysis-via-natural-language-approach-1-224965d1fb16)
